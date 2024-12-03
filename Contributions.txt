@@ -1,4 +1,8 @@
 Sandy Fata
+- Started the exploratory data analysis
+- Wrote designated parts of the midterm
+- Worked with baseline model
+- Wrote designated parts of the poster
 
 Connor Riley
 - implemented the main model
