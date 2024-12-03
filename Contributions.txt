@@ -1,6 +1,10 @@
 Sandy Fata
 
 Connor Riley
+- implemented the main model
+- made the custom text input feature
+- helped in making the physical poster 
+- implemented data augmentation
 
 Breanna Slessman
 - Wrote most of midterm report
